@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://next-word-1-o2uw.onrender.com';
 
 /**
  * Sends text sequence to the backend API to predict the next word.
